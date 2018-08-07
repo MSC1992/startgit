@@ -1,1 +1,1 @@
-factory add a new file used to test merge conflict of both add
+the file used for both add conflict

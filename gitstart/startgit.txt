@@ -2,3 +2,4 @@ test git 9
 add test git file 2
 7-12 test commit
 add this line for git merge operation 
+add this line for test both add conflict
